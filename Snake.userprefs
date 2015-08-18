@@ -1,8 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Score.cs">
     <Files>
-      <File FileName="Assets\Scripts\Score.cs" Line="8" Column="20" />
+      <File FileName="Assets\Scripts\Snake.cs" Line="160" Column="25" />
+      <File FileName="Assets\Scripts\Fruit.cs" Line="19" Column="3" />
+      <File FileName="Assets\Scripts\Score.cs" Line="11" Column="17" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
